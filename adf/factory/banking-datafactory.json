@@ -1,0 +1,9 @@
+{
+	"name": "banking-datafactory",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "37cee259-c52a-4851-8011-970e30f6e070",
+		"tenantId": "396c29cd-612a-4469-a6be-23d41849c6d4"
+	}
+}
